@@ -38,6 +38,13 @@ Digite a operacao (+, -, * ou /): +
 
 Resultado: 15.00
 
+
+## Demonstração visual
+
+A imagem abaixo apresenta o código da calculadora em Linguagem C e o resultado de sua execução.
+
+![Demonstração da Calculadora em C](demonstracao-calculadora.png.png)
+  
 ## Contexto acadêmico
 
 Projeto desenvolvido durante o semestre letivo, na disciplina de Programação, sob orientação da professora Ione.
