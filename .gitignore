@@ -1,0 +1,18 @@
+# Arquivos compilados
+*.exe
+*.o
+*.out
+
+# Arquivos temporarios
+*.tmp
+*.log
+*.bak
+
+# Configuracoes locais
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Variaveis de ambiente
+.env
+.env.*
